@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @b4gabe
+- 👋 Hi, I’m Gabe
 - 👀 I’m interested in changing my career and becoming a full stack developer.
-- 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML/CSS & JavaScript
 - 📫 How to reach me ...
 
 <!---
